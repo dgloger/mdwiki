@@ -6,9 +6,8 @@ Folgende Schritte habe durchgeführt, siehe [MDwiki-Repository](https://github.c
 
 2. [SSH-Schlüssel auf GitHub übertragen](https://help.github.com/articles/generating-ssh-keys#step-3-add-your-ssh-key-to-github)
 
-3. Lokale Kopie erstellen
+3. Lokale Kopie in _Programme/Projekte/github_ erstellen
    
-        cd Programme/Projekte/github/mdwiki
         git clone git@github.com:dgloger/mdwiki-seed.git
    
 4. Startseite umbenennen

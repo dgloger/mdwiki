@@ -23,3 +23,25 @@ Folgende Schritte habe durchgeführt, siehe Repository [mdwiki](https://github.c
 
         git commit -am "Rename startpage to index.html, switch of 'Fork me on GitHub' in navigation.md and add 'Benutzung mit GitHub.md'"
         git push
+
+## Änderungen an mdwiki.html
+
+Urheberhinweis hellgrau darstellen:
+```css
+    #md-all .md-copyright-footer {
+        font-size: smaller;
+        padding: 1em;
+        color: #aaa;
+    }
+    #md-all .md-copyright-footer a { color: #aad; }
+```
+
+Urheberhinweis verkürzt:
+
+```javascript
+b+='Website generated with <a href="http://www.mdwiki.info">MDwiki</a> ',b+="&copy; Timo D&ouml;rr and contributors. "
+```
+
+```javascript
+b+='generiert mit <a href="http://www.mdwiki.info">MDwiki</a> '
+```

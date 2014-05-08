@@ -1,6 +1,6 @@
 # Benutzung mit GitHub
 
-Folgende Schritte habe durchgeführt, siehe [MDwiki-Repository](https://github.com/dgloger/mdwiki)  auf GitHub.
+Folgende Schritte habe durchgeführt, siehe Repository [mdwiki](https://github.com/dgloger/mdwiki).
 
 1. [Vorlage für MDwiki](https://dynalon.github.io/mdwiki/#!tutorials/github.md) [forken](https://help.github.com/articles/fork-a-repo) und unter _Settings_ einen sinnvollen Namen wählen, z. B. „mdwiki“
 

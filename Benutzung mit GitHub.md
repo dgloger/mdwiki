@@ -21,5 +21,5 @@ Folgende Schritte habe durchgeführt, siehe Repository [mdwiki](https://github.c
 
 6. Commit für lokale Änderungen erstellen und auf GitHub übertragen
 
-        git commit -a -m "Rename startpage to index.html, switch of 'Fork me on GitHub' in navigation.md and add 'Benutzung mit GitHub.md'"
+        git commit -am "Rename startpage to index.html, switch of 'Fork me on GitHub' in navigation.md and add 'Benutzung mit GitHub.md'"
         git push

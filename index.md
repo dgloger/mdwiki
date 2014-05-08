@@ -1,4 +1,4 @@
-About
-=====
+Wiki von D. Gloger
+==================
 
-This is an MDwiki seed project. Edit the files to adopt to your website or wiki style.
+Dieses Wiki soll sich später mit den auf GitHub gehosten Softwareprojekten beschäftigen.
